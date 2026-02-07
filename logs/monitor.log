@@ -1,0 +1,29 @@
+2026-02-08 08:15:55,339 [INFO] === LLM Security Benchmark Monitor 시작 ===
+2026-02-08 08:15:55,339 [INFO] Checking 0din...
+2026-02-08 08:15:55,885 [INFO] 0din: 13 new posts found
+2026-02-08 08:15:55,885 [INFO] Checking calypsoai...
+2026-02-08 08:15:59,206 [INFO] calypsoai: initial hash recorded
+2026-02-08 08:15:59,207 [INFO] Checking enkryptai...
+2026-02-08 08:16:00,493 [INFO] enkryptai: initial hash recorded
+2026-02-08 08:16:00,494 [INFO] Checking phare...
+2026-02-08 08:16:00,911 [INFO] phare: initial hash recorded
+2026-02-08 08:16:00,911 [INFO] Checking general_analysis...
+2026-02-08 08:16:01,345 [INFO] general_analysis: initial hash recorded
+2026-02-08 08:16:01,345 [INFO] Checking jailbreakbench...
+2026-02-08 08:16:01,768 [INFO] jailbreakbench: initial hash recorded
+2026-02-08 08:16:01,769 [INFO] Briefing generated: /root/projects/ai-security/briefings/briefing-2026-02-08.md
+2026-02-08 08:16:01,769 [INFO] 총 13건 변경 감지!
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 5 min readDecember 24, 2025Twas the Night Before Jailbreaks: Introducing 0DIN SidekickMBy Marco Figueroa (https://0din.ai/blog/sidekick)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 3 min readDecember 23, 2025Agent 0DIN: A Gamified CTF for Breaking AI Systems (https://0din.ai/blog/agent-0din)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 4 min readDecember 22, 2025Introducing Achievements on 0DIN.ai (https://0din.ai/blog/achievements)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 8 min readJuly 31, 20250DIN’s Real-World Jailbreak Benchmark: The Gold Standard For LLM Security Evaluation (https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 10 min readJuly 17, 2025Engineering Confidence: 14 Critical Questions for Secure LLM + RAG Deployment (https://0din.ai/blog/engineering-confidence-14-critical-questions-for-secure-llm-rag-deployment)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: AI Security (1) (https://0din.ai/blog/articles?category_slug=ai-security)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: Featured (1) (https://0din.ai/blog/articles?category_slug=featured)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: Knowledge Base (1) (https://0din.ai/blog/articles?category_slug=knowledge-base)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 5 min readJuly 10, 2025Phishing For Gemini (https://0din.ai/blog/phishing-for-gemini)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 5 min readJuly 08, 2025ChatGPT Guessing Game Leads To Users Extracting Free Windows OS Keys & More (https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 3 min readJuly 07, 2025ODIN Product Launch: Threat Intelligence Feed & Model Scanner (https://0din.ai/blog/odin-product-launch-threat-intelligence-feed-model-scanner)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 12 min readJune 12, 2025Quantifying the Unruly: A Scoring System for Jailbreak Tactics (https://0din.ai/blog/quantifying-the-unruly-a-scoring-system-for-jailbreak-tactics)
+2026-02-08 08:16:01,770 [INFO]   [0din] 새 포스트: 7 min readFebruary 10, 20250DIN Secures the Future of AI Shopping (https://0din.ai/blog/odin-secures-the-future-of-ai-shopping)
+2026-02-08 08:16:01,770 [INFO] === Monitor 완료 ===

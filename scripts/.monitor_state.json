@@ -1,0 +1,41 @@
+{
+  "0din": {
+    "known_slugs": [
+      "sidekick",
+      "articles?category_slug=featured",
+      "articles?category_slug=knowledge-base",
+      "phishing-for-gemini",
+      "odin-product-launch-threat-intelligence-feed-model-scanner",
+      "quantifying-the-unruly-a-scoring-system-for-jailbreak-tactics",
+      "agent-0din",
+      "chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more",
+      "odin-secures-the-future-of-ai-shopping",
+      "achievements",
+      "engineering-confidence-14-critical-questions-for-secure-llm-rag-deployment",
+      "0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation",
+      "articles?category_slug=ai-security"
+    ],
+    "last_checked": "2026-02-08T08:15:55.885516",
+    "total_posts": 13
+  },
+  "calypsoai": {
+    "hash": "e2157b55b0fbbba14bcdf944940277c6530450911627eb0fe79fccb5d88cc5b0",
+    "last_checked": "2026-02-08T08:15:59.207097"
+  },
+  "enkryptai": {
+    "hash": "75ea9cfc5abf781f14c18e1c76bf370b7c9c0e53adf2615ecd91660e72368b8c",
+    "last_checked": "2026-02-08T08:16:00.494092"
+  },
+  "phare": {
+    "hash": "09624555a587be7e78e854f561cf9cfc375e6eb6e19e5d7a7b063181a1db9367",
+    "last_checked": "2026-02-08T08:16:00.911306"
+  },
+  "general_analysis": {
+    "hash": "5e67d4242895361ab7ce278864c5a5f994e5a90d3ae731efa894f64ab87d650b",
+    "last_checked": "2026-02-08T08:16:01.345911"
+  },
+  "jailbreakbench": {
+    "hash": "788b8ee72e085602b061e5865ecf6f46187c228222284651fc080b01854996ea",
+    "last_checked": "2026-02-08T08:16:01.768936"
+  }
+}
