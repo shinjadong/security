@@ -27,6 +27,11 @@
 ## Phase 4: Advanced (8주+)
 - [phase4-advanced/career-tracks.md](phase4-advanced/career-tracks.md) - 커리어/인증/전문가 가이드
 
+## NotebookLM & 유튜브 파이프라인
+- [notebooklm/README.md](notebooklm/README.md) - 사용법 + 추천 강의 + 수면 학습 루틴
+- [notebooklm/hacking-security-principles.md](notebooklm/hacking-security-principles.md) - NotebookLM용 14개 원리 + 실제 사건
+- [../scripts/youtube_pipeline.py](../scripts/youtube_pipeline.py) - 유튜브 → 자막 → 번역 → 수면 음성 파이프라인
+
 ---
 
 ## 연결된 벤치마크 데이터 (실전 참고)
